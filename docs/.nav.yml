@@ -1,7 +1,3 @@
 nav:
-  - Home: index.md
-  - Announcements: blog
-  - ARTCC SOPs: artccs
-  - Staff: staff.md
-  - Policies: policy
-  - Links: links.md
+  - index.md
+  - rules

@@ -1,0 +1,5 @@
+kdf_iterations: 10000
+obfuscate: {}
+password:
+  grantshort: f01ebd4d59319ac8244824519e4911e04de96fec6b99b8b28ebaab1e6e3bc315;86524295c4ee278e384887f6b1297e9d;e0ad1ce1995bf943b8f9ea19a30d197be87318d727f081d7bf3d3cb65497f1f1
+userpass: {}

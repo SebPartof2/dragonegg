@@ -1,2 +1,2 @@
-# Welcome to United States Aviation
-This is a WIP. Feel free to take a look around or [contact us](mailto:kangs@unitedstatesaviation.us).
+# Home
+These are the official rules for the Dragon Egg SMP. This is still a work in progress.

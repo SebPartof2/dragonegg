@@ -1,4 +1,4 @@
-site_name: United States Aviation
+site_name: Dragon Egg SMP
 
 theme:
   name: material
@@ -12,13 +12,8 @@ theme:
     - search.share
     - content.tooltips
     - navigation.footer
-  logo: images/USAAw.png
-  favicon: images/USAAs.png
   icon:
     repo: fontawesome/brands/github
-  social:
-      - icon: fontawesome/brands/github
-        link: https://github.com/unitedstatesaviation
   palette: 
 
     # Palette toggle for light mode
@@ -26,16 +21,16 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-      primary: black
-      accent: light blue
+      primary: deep orange
+      accent: red
 
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: black
-      accent: light blue
+      primary: deep orange
+      accent: red
 
 plugins:
   - search
@@ -52,6 +47,8 @@ plugins:
       enable_creation_date: true
   - mkdocs-pdf
   - blog
+  - encryptcontent:
+      global_password: 'grantshort'
 
 markdown_extensions:
   - attr_list
@@ -70,18 +67,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
-repo_url: https://github.com/unitedstatesaviation/sops
-repo_name: unitedstatesaviation/sops
+repo_url: https://github.com/SebPartof2/dragonegg
+repo_name: SebPartof2/dragonegg
 
-copyright: This website should be used for simulation purposes only. United States Aviation is not affiliated with the FAA or any government entity. <br>United States Aviation Website © 2025 by United States Aviation is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-extra:  
-  social:
-      - icon: fontawesome/brands/github
-        link: https://github.com/unitedstatesaviation
-        name: GitHub
-      - icon: material/email
-        link: mailto:info@unitedstatesaviation.us
-        name: Email
-      - icon: simple/moodle
-        link: https://srv1049714.hstgr.cloud/login/index.php
-        name: Moodle
+copyright: This site is only for use by the Dragon Egg SMP and its members. Any unauthorized use is prohibited.
